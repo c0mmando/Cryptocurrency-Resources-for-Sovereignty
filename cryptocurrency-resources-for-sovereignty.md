@@ -31,7 +31,6 @@
 - [A Cypherpunk's Manifesto](https://docs.hackliberty.org/books/manifestos/page/a-cypherpunks-manifesto)
 - [The GNU Manifesto](https://docs.hackliberty.org/books/manifestos/page/the-gnu-manifesto)
 - [The Crypto Anarchist Manifesto](https://docs.hackliberty.org/books/manifestos/page/the-crypto-anarchist-manifesto)
-
 ---
 ### **NoKYC Guides**
 - [How to buy non KYC Bitcoin](https://archive.org/details/how-to-use-text-verified-to-buy-non-kyc-bitcoin-at-a-bitcoin-atm)
@@ -51,9 +50,7 @@
 
 - [How to accept non-KYC bitcoin with BTCPay Jungle and Electrum](https://archive.org/details/how-to-accept-non-kyc-bitcoin-with-btcpay-jungle-and-electrum)
 	>  I will discuss how to connect an Electrum bitcoin software wallet to BTCPay Jungle to start receiving non-KYC bitcoin payments in exchange for goods and services online.
-
-- EOF
-
+---
 ### **Crypto Services Directories**
 
 - [KYCNOT.ME](https://kycnot.me/)
@@ -73,9 +70,7 @@
 
 - [Lightning Network Stores](https://lightningnetworkstores.com/)
 	>This website lists stores that accept bitcoin through the lightning network. Any user can vote up or down on the stores listed. To actively participate you should have a lightning-enabled bitcoin wallet.  We track the adoption of the bitcoin lightning network by merchants and allow users to find and review them. The website is mostly automated and community maintained: adding stores, tagging and updating (most/all updates done by website owners). 
-
-- EOF
-
+---
 ### **P2P Exchanges**
 - [Bisq](https://bisq.network/)
 	>  Buy and sell bitcoin for fiat (or other cryptocurrencies) privately and securely using Bisq's peer-to-peer network and open-source desktop software. No registration required. Bisq is a peer-to-peer trading network, not a website or "app" or other centralized service. It's software you run on your own hardware, which connects to other people running the Bisq software to facilitate trades. It's open-source and community-driven.
@@ -91,9 +86,7 @@
 
 - [HodlHodl](https://hodlhodl.com/)
 	> Hodl Hodl is a global P2P Bitcoin trading platform, that allows users to trade directly with each other and it doesn't hold user’s funds — locking it in multisig escrow instead. This minimizes the possibility of Bitcoin assets theft and reduces trading time.
-
-- EOF
-
+---
 ### **P2P Crypto Marketplaces and Freelancing**
 - [Bitejo](https://bitejo.com/)
 	>  With Bitejo, members can use Bitcoin to freely trade with their friends, community and the world.
@@ -108,8 +101,12 @@
 - [Bitcoin P2P Marketplace](https://t.me/bitcoinp2pmarketplace)
 
 - [Monero Market](https://reddit.com/r/moneromarket)
-
+---
 ### **Automated Exchanges**
+
+- [Trocador](http://trocadorfyhlu27aefre5u7zri66gudtzdyelymftvr4yjwcxhfaqsid.onion)
+	>  Trocador is a privacy-focused exchange aggregator. We believe cryptocurrency can be a great tool against government overreach, censorship and tyranny. And that it can help promote decentralization and liberty, for a much more prosperous and freer world. 
+
 - [Infinity Exchanger](https://exchanger.infinity.taxi/)
 	>  Infinity Exchanger takes one cryptocurrency and outputs one or more cryptocurrencies. It operates without user accounts, allowing to quickly exchange multiple assets.
 
@@ -119,17 +116,12 @@
 - [eXch](http://hszyoqwrcp7cxlxnqmovp6vjvmnwj33g4wviuxqzq47emieaxjaperyd.onion/) 
 	> Privacy-first automated crytpocurrency swaps without registration. 
 
-- [Trocador](http://trocadorfyhlu27aefre5u7zri66gudtzdyelymftvr4yjwcxhfaqsid.onion)
-	>  Trocador is a privacy-focused exchange aggregator. We believe cryptocurrency can be a great tool against government overreach, censorship and tyranny. And that it can help promote decentralization and liberty, for a much more prosperous and freer world. 
-
 - [Majestic Bank](https://majestictfvnfjgo5hqvmuzynak4kjl5tjs3j5zdabawe6n2aaebldad.onion/)
 	> Anonymous Crypto Bank providing Exchange Bitcoin to Monero and vice versa. 
 
 - [Kilos Swap](http://mlyusr6htlxsyc7t2f4z53wdxh3win7q3qpxcrbam6jf3dmua7tnzuyd.onion)
 	> This coin swap service is only available with Tor and guarantees full anonymity to users. 
-
-- EOF
-
+---
 ### **Crypto VPS & Domain Services**
 - [1984](https://1984.hosting)
 	> The 1984 Hosting Company was established in 2006 by a couple of Free Software and civil rights enthusiasts. We have since grown to become Iceland's biggest web hosting company by far. Our goal is to offer high quality web hosting and VPS services at a competitive price, always respecting and protecting the civil and political rights of our customers. We only use green energy from renewable, sustainable sources and we always choose free software.
@@ -139,30 +131,22 @@
 
 - [Njalla](https://njal.la/)
 	>  Njalla sits in between the domain name registration service and you, acting as a privacy shield. When you purchase a domain name through Njalla, they own it for you. However, the agreement grants you full usage rights to the domain. Whenever you want to, you can transfer the ownership to yourself or some other party. 
-
-- EOF
-
+---
 ### **Crypto VPN Services**
 -  [Mullvad VPN](https://mullvad.net/)
 	> Highly regarded no log VPN provider
 
 - [IVPN](https://www.ivpn.net/)
 	> Highly regarded no log VPN provider
-
-- EOF
-
+---
 ### **Crypto Credit Cards**
 - [Pay with Moon](https://paywithmoon.com/)
 	>  Use Bitcoin/Lighting to fund virtual VISA cards with ease. Coinbase is supported as a payment method to fund the cards. Cards themselves once loaded can be used immediately. The user can delete the card to return balance to their account as credit to be used in future cards. 
-
-- EOF
-
+---
 ### **Crypto Gift Cards**
 - [CardCoins](https://www.cardcoins.co/)
 	> Use a prepaid gift card to convert your cash into digital currency at over 80,000 locations nationwide.
-
-- EOF
-
+---
 ### **Crypto eSim Providers**
 - [SilentLink](https://silent.link/)
 	> Get global mobile 4G/5G Internet access and burner phone numbers instantly and privately on any modern eSIM-compatible smartphone
@@ -173,9 +157,7 @@
 
 - [AnonCards](https://anoncards.io/)
 	> Buy SIM, ESIM and Gift cards with Monero. 
-
-- EOF
-
+---
 ### **Crypto SMS Providers**
 - [SMSPVA](http://smspva.com/)
 	>  SMSPVA offers a large list of SMS verification numbers you can rent with BTC. Account does not need any personal information. 
@@ -194,9 +176,7 @@
 
 - [TextVerified](https://textverified.com)
 	>  We are the premier one stop shop for all your sms and text verification needs. Exceptional service and competitive pricing sets us apart from the rest. 
-
-- EOF
-
+---
 ### Sources & Kudos
 - https://agorism.blog/anarkio/agorist-bitcoin-monero-and-tech-resources
 - https://kycnot.me
